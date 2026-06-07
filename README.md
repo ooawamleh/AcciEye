@@ -1,4 +1,4 @@
-# AcciEye: Automated Traffic Accident Detection, Severity Classification, and Liability Reasoning System
+# AcciEye: Automated Traffic Accident Detection, Severity Classification, and Liability Reasoning System (Graduation Project)
 
 AcciEye is an end-to-end, multi-stage artificial intelligence and automation platform. It is designed to detect traffic accidents from visual feeds, classify their severity, analyze legal liability using deterministic right-of-way logic based on Jordanian Traffic Law, synthesize formal bilingual legal reports, and automate emergency alerts.
 
