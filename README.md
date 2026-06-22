@@ -280,6 +280,18 @@ This reads the `Dockerfile` and `docker-compose.yml` configs to spin up the Grad
 
 ---
 
+---
+
+## 📺 Live Demo
+
+The system is working live here:
+
+https://huggingface.co/spaces/Ounaa2003/AcciEye
+
+If the system was paused please reach out to ounaa@outlook.com to run it and be able to try it.
+
+---
+
 ## 👥 Contributors
 
 * **Oun Alawamleh** - Team Leader, Image preprocessing, TALE Intelligence, Automation workflow, Docker Deployment, and Deployment.
